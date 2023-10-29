@@ -1,5 +1,3 @@
-Certainly! Here's the updated README with instructions on how to instantiate each type of player, including the parameters needed:
-
 # Connect Four Game
 
 ## Introduction
