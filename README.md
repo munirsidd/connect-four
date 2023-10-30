@@ -60,7 +60,12 @@ To play the Connect Four game, follow these steps:
      computer_player = AIPlayer('O', 'RANDOM', 3)
      ```
 
-4. Follow the on-screen instructions to choose columns for your moves, and watch the game progress until there's a winner or a tie.
+4. Run the game:
+   ```python
+   connect_four(player1, player2)
+   ```
+
+6. Follow the on-screen instructions to choose columns for your moves, and watch the game progress until there's a winner or a tie.
 
 ## Game Rules
 
